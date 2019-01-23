@@ -1,0 +1,35 @@
+<--TID_KEEP!-->
+<--UART_EXT send *C,67&-->
+<--UART Data:*B,1,R:5203 3454,4373 4416,G:4700 3252,3955 3954,B:6458 4563,5679 5644,C:13800 9534,12557 12560&
+-->
+<--TID_CS!-->
+<--WhileGetAckNumber[Result:1 - ACKNUM:7612 - LastACK:7612 - OT:32]!-->
+<--WhileGetAckNumber[Result:1 - ACKNUM:7716 - LastACK:7612 - OT:31]!-->
+<--Ql_SOC_GetAckNumber[Result:1 - ACKNUM:7716 - LastACK:7612]!-->
+<--TCP Send Data:**,100,DC,1,R:5203 3454,4373 4416,G:4700 3252,3955 3954,B:6458 4563,5679 5644,C:13800 9534,12557 12560&&[104][1]-->
+<--TID_KEEP!-->
+<--UART_EXT send *C,67&-->
+<--UART Data:*B,1,R:5177 3454,4372 4416,G:4691 3252,3957 3954,B:6460 4563,5685 5644,C:13774 9534,12564 12560&
+-->
+<--TID_CS!-->
+<--WhileGetAckNumber[Result:1 - ACKNUM:7716 - LastACK:7716 - OT:32]!-->
+<--WhileGetAckNumber[Result:1 - ACKNUM:7820 - LastACK:7716 - OT:31]!-->
+<--Ql_SOC_GetAckNumber[Result:1 - ACKNUM:7820 - LastACK:7716]!-->
+<--TCP Send Data:**,100,DC,1,R:5177 3454,4372 4416,G:4691 3252,3957 3954,B:6460 4563,5685 5644,C:13774 9534,12564 12560&&[104][1]-->
+<--TID_CELL!-->
+<--WhileGetAckNumber[Result:1 - ACKNUM:7820 - LastACK:7820 - OT:32]!-->
+<--WhileGetAckNumber[Result:1 - ACKNUM:7863 - LastACK:7820 - OT:31]!-->
+<--Ql_SOC_GetAckNumber[Result:1 - ACKNUM:7863 - LastACK:7820]!-->
+<--TCP Send Data:**,101,460,0,20945,64500,21,0.0000,0.0000&&[43][1]-->
+<--TID_KEEP!-->
+<--UART_EXT send *C,67&-->
+<--UART Data:*B,1,R:5178 3454,4416 4416,G:4694 3252,3976 3954,B:6462 4563,5693 5644,C:13779 9534,12630 12560&
+-->
+<--TID_CS!-->
+<--WhileGetAckNumber[Result:1 - ACKNUM:7863 - LastACK:7863 - OT:32]!-->
+<--WhileGetAckNumber[Result:1 - ACKNUM:7967 - LastACK:7863 - OT:31]!-->
+<--Ql_SOC_GetAckNumber[Result:1 - ACKNUM:7967 - LastACK:7863]!-->
+<--TCP Send Data:**,100,DC,1,R:5178 3454,4416 4416,G:4694 3252,3976 3954,B:6462 4563,5693 5644,C:13779 9534,12630 12560&&[104][1]-->
+<--TID_KEEP!-->
+<--UART_EXT send *C,67&-->
+<--UART Data:*B,1,R:5204 3454,4406 4416,G:4704 3252,3974 3954,B:6465 4563,5696 5644,C:13813 9534,12623 12560&

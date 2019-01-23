@@ -1,0 +1,35 @@
+<--TID_KEEP!-->
+<--WhileGetAckNumber[Result:1 - ACKNUM:2308 - LastACK:2308 - OT:32]!-->
+<--WhileGetAckNumber[Result:1 - ACKNUM:2319 - LastACK:2308 - OT:31]!-->
+<--Ql_SOC_GetAckNumber[Result:1 - ACKNUM:2319 - LastACK:2308]!-->
+<--TCP Send Data:**,100,DC&&[11][1]-->
+<--TID_KEEP!-->
+<--UART_EXT send *C,67&-->
+<--UART Data:*B,0,R:5904 5888,5814 5805,G:4952 4944,4254 4250,B:6520 6516,5955 5953,C:16039 16010,16659 16643&
+-->
+<--TID_CS!-->
+<--WhileGetAckNumber[Result:1 - ACKNUM:2319 - LastACK:2319 - OT:32]!-->
+<--WhileGetAckNumber[Result:1 - ACKNUM:2424 - LastACK:2319 - OT:31]!-->
+<--Ql_SOC_GetAckNumber[Result:1 - ACKNUM:2424 - LastACK:2319]!-->
+<--TCP Send Data:**,100,DC,0,R:5904 5888,5814 5805,G:4952 4944,4254 4250,B:6520 6516,5955 5953,C:16039 16010,16659 16643&&[105][1]-->
+<--TID_KEEP!-->
+<--UART_EXT send *C,67&-->
+<--UART Data:*B,0,R:5918 5888,5815 5805,G:4958 4944,4254 4250,B:6522 6516,5954 5953,C:16062 16010,16659 16643&
+-->
+<--TID_CS!-->
+<--WhileGetAckNumber[Result:1 - ACKNUM:2424 - LastACK:2424 - OT:32]!-->
+<--WhileGetAckNumber[Result:1 - ACKNUM:2529 - LastACK:2424 - OT:31]!-->
+<--Ql_SOC_GetAckNumber[Result:1 - ACKNUM:2529 - LastACK:2424]!-->
+<--TCP Send Data:**,100,DC,0,R:5918 5888,5815 5805,G:4958 4944,4254 4250,B:6522 6516,5954 5953,C:16062 16010,16659 16643&&[105][1]-->
+<--TID_KEEP!-->
+<--UART_EXT send *C,67&-->
+<--UART Data:*B,0,R:5896 5888,5808 5805,G:4948 4944,4252 4250,B:6518 6516,5955 5953,C:16025 16010,16650 16643&
+-->
+<--TID_CS!-->
+<--WhileGetAckNumber[Result:1 - ACKNUM:2529 - LastACK:2529 - OT:32]!-->
+<--WhileGetAckNumber[Result:1 - ACKNUM:2634 - LastACK:2529 - OT:31]!-->
+<--Ql_SOC_GetAckNumber[Result:1 - ACKNUM:2634 - LastACK:2529]!-->
+<--TCP Send Data:**,100,DC,0,R:5896 5888,5808 5805,G:4948 4944,4252 4250,B:6518 6516,5955 5953,C:16025 16010,16650 16643&&[105][1]-->
+<--TID_KEEP!-->
+<--UART_EXT send *C,67&-->
+<--UART Data:*B,0,R:5910 5888,5812 5805,G:4955 4944,4253 4250,B:6521 6516,5956 5953,C:16051 16010,16659 16643&

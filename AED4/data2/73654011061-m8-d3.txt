@@ -1,0 +1,166 @@
+<--TID_KEEP!-->
+<--UART_EXT send *C,67&-->
+<--UART Data:*B,3,R:13681 11861,25651 24424,G:9793 8303,16943 15847,B:12581 10652,20522 19091,C:34512 30026,64688 61886&
+-->
+<--TID_CS!-->
+<--WhileGetAckNumber[Result:1 - ACKNUM:40492 - LastACK:40492 - OT:32]!-->
+<--WhileGetAckNumber[Result:1 - ACKNUM:40492 - LastACK:40492 - OT:31]!-->
+<--WhileGetAckNumber[Result:1 - ACKNUM:40492 - LastACK:40492 - OT:30]!-->
+<--WhileGetAckNumber[Result:1 - ACKNUM:40492 - LastACK:40492 - OT:29]!-->
+<--WhileGetAckNumber[Result:1 - ACKNUM:40492 - LastACK:40492 - OT:28]!-->
+<--WhileGetAckNumber[Result:1 - ACKNUM:40492 - LastACK:40492 - OT:27]!-->
+<--WhileGetAckNumber[Result:1 - ACKNUM:40492 - LastACK:40492 - OT:26]!-->
+<--WhileGetAckNumber[Result:1 - ACKNUM:40492 - LastACK:40492 - OT:25]!-->
+<--WhileGetAckNumber[Result:1 - ACKNUM:40492 - LastACK:40492 - OT:24]!-->
+<--WhileGetAckNumber[Result:1 - ACKNUM:40492 - LastACK:40492 - OT:23]!-->
+<--WhileGetAckNumber[Result:1 - ACKNUM:40492 - LastACK:40492 - OT:22]!-->
+<--WhileGetAckNumber[Result:1 - ACKNUM:40492 - LastACK:40492 - OT:21]!-->
+<--WhileGetAckNumber[Result:1 - ACKNUM:40492 - LastACK:40492 - OT:20]!-->
+<--WhileGetAckNumber[Result:1 - ACKNUM:40492 - LastACK:40492 - OT:19]!-->
+<--WhileGetAckNumber[Result:1 - ACKNUM:40492 - LastACK:40492 - OT:18]!-->
+<--WhileGetAckNumber[Result:1 - ACKNUM:40492 - LastACK:40492 - OT:17]!-->
+<--WhileGetAckNumber[Result:1 - ACKNUM:40492 - LastACK:40492 - OT:16]!-->
+<--WhileGetAckNumber[Result:1 - ACKNUM:40492 - LastACK:40492 - OT:15]!-->
+<--WhileGetAckNumber[Result:1 - ACKNUM:40492 - LastACK:40492 - OT:14]!-->
+<--WhileGetAckNumber[Result:1 - ACKNUM:40492 - LastACK:40492 - OT:13]!-->
+<--WhileGetAckNumber[Result:1 - ACKNUM:40492 - LastACK:40492 - OT:12]!-->
+<--WhileGetAckNumber[Result:1 - ACKNUM:40492 - LastACK:40492 - OT:11]!-->
+<--WhileGetAckNumber[Result:1 - ACKNUM:40492 - LastACK:40492 - OT:10]!-->
+<--WhileGetAckNumber[Result:1 - ACKNUM:40492 - LastACK:40492 - OT:9]!-->
+<--WhileGetAckNumber[Result:1 - ACKNUM:40492 - LastACK:40492 - OT:8]!-->
+<--WhileGetAckNumber[Result:1 - ACKNUM:40492 - LastACK:40492 - OT:7]!-->
+<--WhileGetAckNumber[Result:1 - ACKNUM:40492 - LastACK:40492 - OT:6]!-->
+<--WhileGetAckNumber[Result:1 - ACKNUM:40492 - LastACK:40492 - OT:5]!-->
+<--WhileGetAckNumber[Result:1 - ACKNUM:40492 - LastACK:40492 - OT:4]!-->
+<--WhileGetAckNumber[Result:1 - ACKNUM:40492 - LastACK:40492 - OT:3]!-->
+<--WhileGetAckNumber[Result:1 - ACKNUM:40492 - LastACK:40492 - OT:2]!-->
+<--WhileGetAckNumber[Result:1 - ACKNUM:40492 - LastACK:40492 - OT:1]!-->
+<--Ql_SOC_GetAckNumber[Result:0 - ACKNUM:40492 - LastACK:40492]!-->
+<--TCP Send Data:**,100,DC,3,R:13681 11861,25651 24424,G:9793 8303,16943 15847,B:12581 10652,20522 19091,C:34512 30026,64688 61886&&[115][0]-->
+<--TCP Send Result Bool[0] NetErrCount:[1] Start TID_NET!-->
+<--ReConnect! Reconnectting[0] ReconnectCount[0] ReconnectFailRetry[0]-->
+<--In ReConnect,startSeconds = 1538064655!-->
+<-- before Ql_SOC_Create!-->
+<--IP:[116.62.27.59]-->
+<--Server Connected! [Socket:3]-->
+<--WhileGetAckNumber[Result:1 - ACKNUM:0 - LastACK:0 - OT:32]!-->
+<--WhileGetAckNumber[Result:1 - ACKNUM:0 - LastACK:0 - OT:31]!-->
+<--WhileGetAckNumber[Result:1 - ACKNUM:0 - LastACK:0 - OT:30]!-->
+<--WhileGetAckNumber[Result:1 - ACKNUM:0 - LastACK:0 - OT:29]!-->
+<--WhileGetAckNumber[Result:1 - ACKNUM:0 - LastACK:0 - OT:28]!-->
+<--WhileGetAckNumber[Result:1 - ACKNUM:0 - LastACK:0 - OT:27]!-->
+<--WhileGetAckNumber[Result:1 - ACKNUM:0 - LastACK:0 - OT:26]!-->
+<--WhileGetAckNumber[Result:1 - ACKNUM:0 - LastACK:0 - OT:25]!-->
+<--WhileGetAckNumber[Result:1 - ACKNUM:0 - LastACK:0 - OT:24]!-->
+<--WhileGetAckNumber[Result:1 - ACKNUM:0 - LastACK:0 - OT:23]!-->
+<--WhileGetAckNumber[Result:1 - ACKNUM:0 - LastACK:0 - OT:22]!-->
+<--WhileGetAckNumber[Result:1 - ACKNUM:0 - LastACK:0 - OT:21]!-->
+<--WhileGetAckNumber[Result:1 - ACKNUM:0 - LastACK:0 - OT:20]!-->
+<--WhileGetAckNumber[Result:1 - ACKNUM:0 - LastACK:0 - OT:19]!-->
+<--WhileGetAckNumber[Result:1 - ACKNUM:0 - LastACK:0 - OT:18]!-->
+<--WhileGetAckNumber[Result:1 - ACKNUM:0 - LastACK:0 - OT:17]!-->
+<--WhileGetAckNumber[Result:1 - ACKNUM:0 - LastACK:0 - OT:16]!-->
+<--WhileGetAckNumber[Result:1 - ACKNUM:0 - LastACK:0 - OT:15]!-->
+<--WhileGetAckNumber[Result:1 - ACKNUM:0 - LastACK:0 - OT:14]!-->
+<--WhileGetAckNumber[Result:1 - ACKNUM:0 - LastACK:0 - OT:13]!-->
+<--WhileGetAckNumber[Result:1 - ACKNUM:0 - LastACK:0 - OT:12]!-->
+<--WhileGetAckNumber[Result:1 - ACKNUM:0 - LastACK:0 - OT:11]!-->
+<--WhileGetAckNumber[Result:1 - ACKNUM:0 - LastACK:0 - OT:10]!-->
+<--WhileGetAckNumber[Result:1 - ACKNUM:0 - LastACK:0 - OT:9]!-->
+<--WhileGetAckNumber[Result:1 - ACKNUM:0 - LastACK:0 - OT:8]!-->
+<--WhileGetAckNumber[Result:1 - ACKNUM:0 - LastACK:0 - OT:7]!-->
+<--WhileGetAckNumber[Result:1 - ACKNUM:0 - LastACK:0 - OT:6]!-->
+<--WhileGetAckNumber[Result:1 - ACKNUM:0 - LastACK:0 - OT:5]!-->
+<--WhileGetAckNumber[Result:1 - ACKNUM:0 - LastACK:0 - OT:4]!-->
+<--WhileGetAckNumber[Result:1 - ACKNUM:0 - LastACK:0 - OT:3]!-->
+<--WhileGetAckNumber[Result:1 - ACKNUM:0 - LastACK:0 - OT:2]!-->
+<--WhileGetAckNumber[Result:1 - ACKNUM:0 - LastACK:0 - OT:1]!-->
+<--Ql_SOC_GetAckNumber[Result:0 - ACKNUM:0 - LastACK:0]!-->
+<--TCP Send Data:**862151033500552,999,AEDV3,1.9.7,898607B1191793564020,DC&&[59][0]-->
+<--TCP Send Result Bool[0] NetErrCount:[1] Start TID_NET!-->
+<--ReConnect! Reconnectting[0] ReconnectCount[0] ReconnectFailRetry[0]-->
+<--In ReConnect,startSeconds = 1538064683!-->
+<-- before Ql_SOC_Create!-->
+<--IP:[116.62.27.59]-->
+<--TCP Connect SOC_SUCCESS-->
+<--Callback_ClientTCP_Connect errCode: 0 -- SocketID:3-->
+<--Server Connected! [Socket:4]-->
+<--WhileGetAckNumber[Result:1 - ACKNUM:0 - LastACK:0 - OT:32]!-->
+<--WhileGetAckNumber[Result:1 - ACKNUM:0 - LastACK:0 - OT:31]!-->
+<--WhileGetAckNumber[Result:1 - ACKNUM:0 - LastACK:0 - OT:30]!-->
+<--WhileGetAckNumber[Result:1 - ACKNUM:0 - LastACK:0 - OT:29]!-->
+<--WhileGetAckNumber[Result:1 - ACKNUM:0 - LastACK:0 - OT:28]!-->
+<--WhileGetAckNumber[Result:1 - ACKNUM:59 - LastACK:0 - OT:27]!-->
+<--Ql_SOC_GetAckNumber[Result:1 - ACKNUM:59 - LastACK:0]!-->
+<--TCP Send Data:**862151033500552,999,AEDV3,1.9.7,898607B1191793564020,DC&&[59][1]-->
+<--TCP Connect SOC_SUCCESS-->
+<--Callback_ClientTCP_Connect errCode: 0 -- SocketID:4-->
+<--Receive TCP Order:999-->
+<--2018-09-27 16:11:44-->
+<--WhileGetAckNumber[Result:1 - ACKNUM:59 - LastACK:59 - OT:32]!-->
+<--WhileGetAckNumber[Result:1 - ACKNUM:59 - LastACK:59 - OT:31]!-->
+<--WhileGetAckNumber[Result:1 - ACKNUM:59 - LastACK:59 - OT:30]!-->
+<--WhileGetAckNumber[Result:1 - ACKNUM:59 - LastACK:59 - OT:29]!-->
+<--WhileGetAckNumber[Result:1 - ACKNUM:59 - LastACK:59 - OT:28]!-->
+<--WhileGetAckNumber[Result:1 - ACKNUM:59 - LastACK:59 - OT:27]!-->
+<--WhileGetAckNumber[Result:1 - ACKNUM:59 - LastACK:59 - OT:26]!-->
+<--WhileGetAckNumber[Result:1 - ACKNUM:59 - LastACK:59 - OT:25]!-->
+<--WhileGetAckNumber[Result:1 - ACKNUM:59 - LastACK:59 - OT:24]!-->
+<--WhileGetAckNumber[Result:1 - ACKNUM:59 - LastACK:59 - OT:23]!-->
+<--WhileGetAckNumber[Result:1 - ACKNUM:59 - LastACK:59 - OT:22]!-->
+<--WhileGetAckNumber[Result:1 - ACKNUM:59 - LastACK:59 - OT:21]!-->
+<--WhileGetAckNumber[Result:1 - ACKNUM:59 - LastACK:59 - OT:20]!-->
+<--WhileGetAckNumber[Result:1 - ACKNUM:59 - LastACK:59 - OT:19]!-->
+<--WhileGetAckNumber[Result:1 - ACKNUM:59 - LastACK:59 - OT:18]!-->
+<--WhileGetAckNumber[Result:1 - ACKNUM:59 - LastACK:59 - OT:17]!-->
+<--WhileGetAckNumber[Result:1 - ACKNUM:59 - LastACK:59 - OT:16]!-->
+<--WhileGetAckNumber[Result:1 - ACKNUM:59 - LastACK:59 - OT:15]!-->
+<--WhileGetAckNumber[Result:1 - ACKNUM:59 - LastACK:59 - OT:14]!-->
+<--WhileGetAckNumber[Result:1 - ACKNUM:59 - LastACK:59 - OT:13]!-->
+<--WhileGetAckNumber[Result:1 - ACKNUM:59 - LastACK:59 - OT:12]!-->
+<--WhileGetAckNumber[Result:1 - ACKNUM:59 - LastACK:59 - OT:11]!-->
+<--WhileGetAckNumber[Result:1 - ACKNUM:59 - LastACK:59 - OT:10]!-->
+<--WhileGetAckNumber[Result:1 - ACKNUM:59 - LastACK:59 - OT:9]!-->
+<--WhileGetAckNumber[Result:1 - ACKNUM:59 - LastACK:59 - OT:8]!-->
+<--WhileGetAckNumber[Result:1 - ACKNUM:59 - LastACK:59 - OT:7]!-->
+<--WhileGetAckNumber[Result:1 - ACKNUM:59 - LastACK:59 - OT:6]!-->
+<--WhileGetAckNumber[Result:1 - ACKNUM:59 - LastACK:59 - OT:5]!-->
+<--WhileGetAckNumber[Result:1 - ACKNUM:59 - LastACK:59 - OT:4]!-->
+<--WhileGetAckNumber[Result:1 - ACKNUM:59 - LastACK:59 - OT:3]!-->
+<--WhileGetAckNumber[Result:1 - ACKNUM:59 - LastACK:59 - OT:2]!-->
+<--WhileGetAckNumber[Result:1 - ACKNUM:59 - LastACK:59 - OT:1]!-->
+<--Ql_SOC_GetAckNumber[Result:0 - ACKNUM:59 - LastACK:59]!-->
+<--TCP Send Data:**,201,0,1&&[12][0]-->
+<--TCP Send Result Bool[0] NetErrCount:[1] Start TID_NET!-->
+<--ReConnect! Reconnectting[0] ReconnectCount[0] ReconnectFailRetry[0]-->
+<--In ReConnect,startSeconds = 1538064729!-->
+<-- before Ql_SOC_Create!-->
+<--IP:[116.62.27.59]-->
+<--Server Connected! [Socket:5]-->
+<--WhileGetAckNumber[Result:1 - ACKNUM:0 - LastACK:0 - OT:32]!-->
+<--WhileGetAckNumber[Result:1 - ACKNUM:0 - LastACK:0 - OT:31]!-->
+<--WhileGetAckNumber[Result:1 - ACKNUM:0 - LastACK:0 - OT:30]!-->
+<--WhileGetAckNumber[Result:1 - ACKNUM:59 - LastACK:0 - OT:29]!-->
+<--Ql_SOC_GetAckNumber[Result:1 - ACKNUM:59 - LastACK:0]!-->
+<--TCP Send Data:**862151033500552,999,AEDV3,1.9.7,898607B1191793564020,DC&&[59][1]-->
+<--TCP Connect SOC_SUCCESS-->
+<--Callback_ClientTCP_Connect errCode: 0 -- SocketID:5-->
+<--Receive TCP Order:999-->
+<--2018-09-27 16:12:19-->
+<--WhileGetAckNumber[Result:1 - ACKNUM:59 - LastACK:59 - OT:32]!-->
+<--WhileGetAckNumber[Result:1 - ACKNUM:71 - LastACK:59 - OT:31]!-->
+<--Ql_SOC_GetAckNumber[Result:1 - ACKNUM:71 - LastACK:59]!-->
+<--TCP Send Data:**,201,0,1&&[12][1]-->
+<--TID_KEEP!-->
+<--UART_EXT send *C,67&-->
+<--UART Data:*B,3,R:13630 11861,25481 24424,G:9803 8303,16923 15847,B:12645 10652,20609 19091,C:34548 30026,64607 61886&
+-->
+<--TID_CS!-->
+<--WhileGetAckNumber[Result:1 - ACKNUM:71 - LastACK:71 - OT:32]!-->
+<--WhileGetAckNumber[Result:1 - ACKNUM:71 - LastACK:71 - OT:31]!-->
+<--WhileGetAckNumber[Result:1 - ACKNUM:186 - LastACK:71 - OT:30]!-->
+<--Ql_SOC_GetAckNumber[Result:1 - ACKNUM:186 - LastACK:71]!-->
+<--TCP Send Data:**,100,DC,3,R:13630 11861,25481 24424,G:9803 8303,16923 15847,B:12645 10652,20609 19091,C:34548 30026,64607 61886&&[115][1]-->
+<--TID_KEEP!-->
+<--UART_EXT send *C,67&-->
+<--UART Data:*B,3,R:13612 11861,25509 24424,G:9808 8303,16950 15847,B:12674 10652,20641 19091,C:34574 30026,64711 61886&

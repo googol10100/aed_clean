@@ -1,0 +1,35 @@
+<--TID_KEEP!-->
+<--UART_EXT send *C,67&-->
+<--UART Data:*B,1,R:7380 5251,6451 6504,G:6395 4545,5318 5273,B:8680 6216,7005 6892,C:19548 14137,17105 17004&
+-->
+<--TID_CS!-->
+<--WhileGetAckNumber[Result:1 - ACKNUM:5131 - LastACK:5131 - OT:32]!-->
+<--WhileGetAckNumber[Result:1 - ACKNUM:5236 - LastACK:5131 - OT:31]!-->
+<--Ql_SOC_GetAckNumber[Result:1 - ACKNUM:5236 - LastACK:5131]!-->
+<--TCP Send Data:**,100,DC,1,R:7380 5251,6451 6504,G:6395 4545,5318 5273,B:8680 6216,7005 6892,C:19548 14137,17105 17004&&[105][1]-->
+<--TID_CELL!-->
+<--WhileGetAckNumber[Result:1 - ACKNUM:5236 - LastACK:5236 - OT:32]!-->
+<--WhileGetAckNumber[Result:1 - ACKNUM:5278 - LastACK:5236 - OT:31]!-->
+<--Ql_SOC_GetAckNumber[Result:1 - ACKNUM:5278 - LastACK:5236]!-->
+<--TCP Send Data:**,101,460,0,6151,18051,23,0.0000,0.0000&&[42][1]-->
+<--TID_KEEP!-->
+<--UART_EXT send *C,67&-->
+<--UART Data:*B,1,R:7376 5251,6462 6504,G:6398 4545,5327 5273,B:8693 6216,7012 6892,C:19560 14137,17134 17004&
+-->
+<--TID_CS!-->
+<--WhileGetAckNumber[Result:1 - ACKNUM:5278 - LastACK:5278 - OT:32]!-->
+<--WhileGetAckNumber[Result:1 - ACKNUM:5383 - LastACK:5278 - OT:31]!-->
+<--Ql_SOC_GetAckNumber[Result:1 - ACKNUM:5383 - LastACK:5278]!-->
+<--TCP Send Data:**,100,DC,1,R:7376 5251,6462 6504,G:6398 4545,5327 5273,B:8693 6216,7012 6892,C:19560 14137,17134 17004&&[105][1]-->
+<--TID_KEEP!-->
+<--UART_EXT send *C,67&-->
+<--UART Data:*B,1,R:7386 5251,6484 6504,G:6403 4545,5339 5273,B:8700 6216,7021 6892,C:19580 14137,17178 17004&
+-->
+<--TID_CS!-->
+<--WhileGetAckNumber[Result:1 - ACKNUM:5383 - LastACK:5383 - OT:32]!-->
+<--WhileGetAckNumber[Result:1 - ACKNUM:5488 - LastACK:5383 - OT:31]!-->
+<--Ql_SOC_GetAckNumber[Result:1 - ACKNUM:5488 - LastACK:5383]!-->
+<--TCP Send Data:**,100,DC,1,R:7386 5251,6484 6504,G:6403 4545,5339 5273,B:8700 6216,7021 6892,C:19580 14137,17178 17004&&[105][1]-->
+<--TID_KEEP!-->
+<--UART_EXT send *C,67&-->
+<--UART Data:*B,1,R:7425 5251,6492 6504,G:6415 4545,5345 5273,B:8707 6216,7028 6892,C:19628 14137,17198 17004&

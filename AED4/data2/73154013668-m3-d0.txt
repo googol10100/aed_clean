@@ -1,0 +1,35 @@
+<--TID_KEEP!-->
+<--UART_EXT send *C,67&-->
+<--UART Data:*B,0,R:4191 4200,4345 4334,G:3435 3432,4010 4006,B:5071 5073,5837 5837,C:12153 12156,12306 12290&
+-->
+<--TID_CS!-->
+<--WhileGetAckNumber[Result:1 - ACKNUM:3385 - LastACK:3385 - OT:32]!-->
+<--WhileGetAckNumber[Result:1 - ACKNUM:3490 - LastACK:3385 - OT:31]!-->
+<--Ql_SOC_GetAckNumber[Result:1 - ACKNUM:3490 - LastACK:3385]!-->
+<--TCP Send Data:**,100,DC,0,R:4191 4200,4345 4334,G:3435 3432,4010 4006,B:5071 5073,5837 5837,C:12153 12156,12306 12290&&[105][1]-->
+<--TID_KEEP!-->
+<--UART_EXT send *C,67&-->
+<--UART Data:*B,0,R:4192 4200,4337 4334,G:3437 3432,4013 4006,B:5076 5073,5850 5837,C:12162 12156,12314 12290&
+-->
+<--TID_CS!-->
+<--WhileGetAckNumber[Result:1 - ACKNUM:3490 - LastACK:3490 - OT:32]!-->
+<--WhileGetAckNumber[Result:1 - ACKNUM:3595 - LastACK:3490 - OT:31]!-->
+<--Ql_SOC_GetAckNumber[Result:1 - ACKNUM:3595 - LastACK:3490]!-->
+<--TCP Send Data:**,100,DC,0,R:4192 4200,4337 4334,G:3437 3432,4013 4006,B:5076 5073,5850 5837,C:12162 12156,12314 12290&&[105][1]-->
+<--TID_KEEP!-->
+<--UART_EXT send *C,67&-->
+<--UART Data:*B,0,R:4189 4200,4342 4334,G:3438 3432,4017 4006,B:5081 5073,5854 5837,C:12165 12156,12326 12290&
+-->
+<--TID_CS!-->
+<--WhileGetAckNumber[Result:1 - ACKNUM:3595 - LastACK:3595 - OT:32]!-->
+<--WhileGetAckNumber[Result:1 - ACKNUM:3700 - LastACK:3595 - OT:31]!-->
+<--Ql_SOC_GetAckNumber[Result:1 - ACKNUM:3700 - LastACK:3595]!-->
+<--TCP Send Data:**,100,DC,0,R:4189 4200,4342 4334,G:3438 3432,4017 4006,B:5081 5073,5854 5837,C:12165 12156,12326 12290&&[105][1]-->
+<--TID_CELL!-->
+<--WhileGetAckNumber[Result:1 - ACKNUM:3700 - LastACK:3700 - OT:32]!-->
+<--WhileGetAckNumber[Result:1 - ACKNUM:3742 - LastACK:3700 - OT:31]!-->
+<--Ql_SOC_GetAckNumber[Result:1 - ACKNUM:3742 - LastACK:3700]!-->
+<--TCP Send Data:**,101,460,0,6151,18051,22,0.0000,0.0000&&[42][1]-->
+<--TID_KEEP!-->
+<--UART_EXT send *C,67&-->
+<--UART Data:*B,0,R:4189 4200,4354 4334,G:3439 3432,4021 4006,B:5084 5073,5855 5837,C:12168 12156,12343 12290&

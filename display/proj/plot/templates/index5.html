@@ -1,0 +1,201 @@
+<head>
+    {% load static %}
+    <script type="text/javascript" src="{% static 'js/jquery.min.js' %}"></script>
+    <script type="text/javascript" src="{% static 'js/highcharts.js' %}"></script>
+    <script type="text/javascript" src="{% static 'js/jquery-ui.min.js' %}"></script>
+    <script type="text/javascript" src="{% static 'js/exporting.js' %}"></script>
+    <script type="text/javascript" src="{% static 'js/jquery.multiselect.min.js' %}"></script>
+
+    <link rel="stylesheet" href="{% static 'css/jquery-ui.min.css' %}">
+    <link rel="stylesheet" href="{% static 'css/jquery.multiselect.css' %}">
+    <link rel="stylesheet" href="{% static 'css/screen1.css' %}">
+
+    <style type="text/css">
+        #set-content ul li #chart {
+            width: 60px;
+            font-size: 12px;
+            height: 22px;
+        }
+    </style>
+
+
+    <script type="text/javascript">
+        // 设定开始日期和结束日期，默认为最近60天
+        $(function() {
+            $("#beginDate").datepicker({dateFormat: "yy-mm-dd"});
+            $("#endDate").datepicker({dateFormat: "yy-mm-dd"});
+            var dateNow = new Date();
+            var str_dateNow = dateNow.getFullYear() + "-" + (dateNow.getMonth() + 1) + "-" + dateNow.getDate();
+            var dateBegin = new Date(dateNow - 60 * 1000 * 3600 * 24);
+            var str_dateBegin = dateBegin.getFullYear() + "-" + (dateBegin.getMonth() + 1) + "-" + dateBegin.getDate();
+            $("#beginDate").datepicker("setDate", str_dateBegin);
+            $("#endDate").datepicker("setDate", str_dateNow);
+        });
+
+
+
+
+
+        // 绑定query按钮的单击操作
+        $(function() {
+            $("#query").click(function() {
+                var beginDate = $("#beginDate").val();
+                var endDate = $("#endDate").val();
+                var color = $("#color").val()
+                var uid = $("#uid").val()
+
+                // 将appNames连接成字符串
+                queryReport(beginDate, endDate,color,uid);
+            });
+        })
+
+        var lineChart;
+
+        // 获取绘图数据
+        function queryReport(beginDate, endDate,color,uid) {
+        
+
+        
+            // 清空原有绘图数据
+            $("#container")[0].innerHTML = "";
+            
+            Highcharts.setOptions({
+                   global: {
+                       useUTC: false 
+                   }
+            });
+            // 初始化折线图参数
+                var lineChart = new Highcharts.Chart({
+                
+                                                chart: {
+                                                    renderTo: 'container',
+                                                    zoomType: 'x'
+                                                },
+
+                                
+                                		title: {
+                                			text: '监控数值走势图'
+                                		},
+                                		subtitle: {
+                                			text: document.ontouchstart === undefined ?
+                                			'鼠标拖动可以进行缩放' : '手势操作进行缩放'
+                                		},
+                                		xAxis: {
+                                			type: 'datetime',
+                                			dateTimeLabelFormats: {
+                                				millisecond: '%H:%M:%S.%L',
+                                				second: '%H:%M:%S',
+                                				minute: '%H:%M',
+                                				hour: '%H:%M',
+                                				day: '%m-%d',
+                                				week: '%m-%d',
+                                				month: '%Y-%m',
+                                				year: '%Y'
+                                			}
+                                		},
+                                		tooltip: {
+                                			dateTimeLabelFormats: {
+                                				millisecond: '%H:%M:%S.%L',
+                                				second: '%H:%M:%S',
+                                				minute: '%H:%M',
+                                				hour: '%H:%M',
+                                				day: '%Y-%m-%d',
+                                				week: '%m-%d',
+                                				month: '%Y-%m',
+                                				year: '%Y'
+                                			}
+                                		},
+                                		yAxis: {
+                                			title: {
+                                				text: 'RGB value'
+                                			}
+                                		},
+                                		legend: {
+                                			enabled: false
+                                		},
+                                		plotOptions: {
+                                			area: {
+                                				fillColor: {
+                                					linearGradient: {
+                                						x1: 0,
+                                						y1: 0,
+                                						x2: 0,
+                                						y2: 1
+                                					},
+                                					stops: [
+                                						[0, Highcharts.getOptions().colors[0]],
+                                						[1, Highcharts.Color(Highcharts.getOptions().colors[0]).setOpacity(0).get('rgba')]
+                                					]
+                                				},
+                                				marker: {
+                                					radius: 2
+                                				},
+                                				lineWidth: 1,
+                                				states: {
+                                					hover: {
+                                						lineWidth: 1
+                                					}
+                                				},
+                                				threshold: null
+                                			}
+                                		},
+                                                series: [],
+                                            });
+            // 构造url参数
+            parameters = {'beginDate': beginDate,
+                        'endDate': endDate,
+                        'color':color,
+                        'uid':uid
+                        };
+
+            // 请求绘图数据
+            $.get("/diagram/formulaTJ",
+                    parameters,
+                    function(rankDict) {
+                        var ranksOfApp = new Array();
+                        for (var app in rankDict) {
+                            lineChart.addSeries({
+                                name: app,
+                                data: rankDict[app]
+                            });
+                        }
+                    },
+                    "json"
+                    );
+        }
+    </script>
+
+</head>
+
+
+<body>
+    <div id="set-content">
+        <ul>
+            <li>
+                <label for="beginDate">Uid: </label>
+                <input type="text" placeholder="请输入控制盒序列号" id="uid" name="uid">
+            </li>
+            
+            <li>
+                <label for="color">Color: </label>
+                <select id="color" name="color">
+                  <option>    Z1    </option> 
+                  <option>    Z2    </option> 
+                </select>
+            </li>
+            <li>
+                <label for="beginDate">Begin Date: </label>
+                <input type="text" id="beginDate">
+            </li>
+            <li>
+                <label for="endDate">End Date: </label>
+                <input type="text" id="endDate">
+            </li>
+     
+            <li>
+                <button id='query'>Query</button>
+            </li>
+        </ul>
+    </div>
+    <div id="container"></div>
+</body>

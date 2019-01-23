@@ -1,0 +1,35 @@
+<--TID_CELL!-->
+<--WhileGetAckNumber[Result:1 - ACKNUM:712 - LastACK:712 - OT:32]!-->
+<--WhileGetAckNumber[Result:1 - ACKNUM:754 - LastACK:712 - OT:31]!-->
+<--Ql_SOC_GetAckNumber[Result:1 - ACKNUM:754 - LastACK:712]!-->
+<--TCP Send Data:**,101,460,0,6151,18051,23,0.0000,0.0000&&[42][1]-->
+<--TID_KEEP!-->
+<--UART_EXT send *C,67&-->
+<--UART Data:*B,1,R:6952 4822,5994 5999,G:6050 4476,4868 4840,B:8527 6431,6624 6504,C:18649 13735,16189 16061&
+-->
+<--TID_CS!-->
+<--WhileGetAckNumber[Result:1 - ACKNUM:754 - LastACK:754 - OT:32]!-->
+<--WhileGetAckNumber[Result:1 - ACKNUM:859 - LastACK:754 - OT:31]!-->
+<--Ql_SOC_GetAckNumber[Result:1 - ACKNUM:859 - LastACK:754]!-->
+<--TCP Send Data:**,100,DC,1,R:6952 4822,5994 5999,G:6050 4476,4868 4840,B:8527 6431,6624 6504,C:18649 13735,16189 16061&&[105][1]-->
+<--TID_KEEP!-->
+<--UART_EXT send *C,67&-->
+<--UART Data:*B,1,R:6997 4822,6027 5999,G:6067 4476,4885 4840,B:8535 6431,6636 6504,C:18651 13735,16255 16061&
+-->
+<--TID_CS!-->
+<--WhileGetAckNumber[Result:1 - ACKNUM:859 - LastACK:859 - OT:32]!-->
+<--WhileGetAckNumber[Result:1 - ACKNUM:964 - LastACK:859 - OT:31]!-->
+<--Ql_SOC_GetAckNumber[Result:1 - ACKNUM:964 - LastACK:859]!-->
+<--TCP Send Data:**,100,DC,1,R:6997 4822,6027 5999,G:6067 4476,4885 4840,B:8535 6431,6636 6504,C:18651 13735,16255 16061&&[105][1]-->
+<--TID_KEEP!-->
+<--UART_EXT send *C,67&-->
+<--UART Data:*B,1,R:6961 4822,6006 5999,G:6057 4476,4879 4840,B:8542 6431,6641 6504,C:18617 13735,16234 16061&
+-->
+<--TID_CS!-->
+<--WhileGetAckNumber[Result:1 - ACKNUM:964 - LastACK:964 - OT:32]!-->
+<--WhileGetAckNumber[Result:1 - ACKNUM:1069 - LastACK:964 - OT:31]!-->
+<--Ql_SOC_GetAckNumber[Result:1 - ACKNUM:1069 - LastACK:964]!-->
+<--TCP Send Data:**,100,DC,1,R:6961 4822,6006 5999,G:6057 4476,4879 4840,B:8542 6431,6641 6504,C:18617 13735,16234 16061&&[105][1]-->
+<--TID_KEEP!-->
+<--UART_EXT send *C,67&-->
+<--UART Data:*B,1,R:6976 4822,6038 5999,G:6064 4476,4895 4840,B:8546 6431,6651 6504,C:18641 13735,16293 16061&

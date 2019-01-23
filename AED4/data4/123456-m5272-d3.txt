@@ -1,0 +1,35 @@
+<--TID_KEEP!-->
+<--UART_EXT send *C,67&-->
+<--UART Data:*B,3,R:6953 5058,8309 6347,G:5891 4312,6575 4946,B:8175 6039,8316 6240,C:18965 14046,21583 16624&
+-->
+<--TID_CS!-->
+<--WhileGetAckNumber[Result:1 - ACKNUM:1374 - LastACK:1374 - OT:32]!-->
+<--WhileGetAckNumber[Result:1 - ACKNUM:1479 - LastACK:1374 - OT:31]!-->
+<--Ql_SOC_GetAckNumber[Result:1 - ACKNUM:1479 - LastACK:1374]!-->
+<--TCP Send Data:**,100,DC,3,R:6953 5058,8309 6347,G:5891 4312,6575 4946,B:8175 6039,8316 6240,C:18965 14046,21583 16624&&[105][1]-->
+<--TID_KEEP!-->
+<--UART_EXT send *C,67&-->
+<--UART Data:*B,3,R:6957 5058,8311 6347,G:5895 4312,6579 4946,B:8180 6039,8324 6240,C:18979 14046,21597 16624&
+-->
+<--TID_CS!-->
+<--WhileGetAckNumber[Result:1 - ACKNUM:1479 - LastACK:1479 - OT:32]!-->
+<--WhileGetAckNumber[Result:1 - ACKNUM:1584 - LastACK:1479 - OT:31]!-->
+<--Ql_SOC_GetAckNumber[Result:1 - ACKNUM:1584 - LastACK:1479]!-->
+<--TCP Send Data:**,100,DC,3,R:6957 5058,8311 6347,G:5895 4312,6579 4946,B:8180 6039,8324 6240,C:18979 14046,21597 16624&&[105][1]-->
+<--TID_CELL!-->
+<--WhileGetAckNumber[Result:1 - ACKNUM:1584 - LastACK:1584 - OT:32]!-->
+<--WhileGetAckNumber[Result:1 - ACKNUM:1627 - LastACK:1584 - OT:31]!-->
+<--Ql_SOC_GetAckNumber[Result:1 - ACKNUM:1627 - LastACK:1584]!-->
+<--TCP Send Data:**,101,460,0,20945,64500,22,0.0000,0.0000&&[43][1]-->
+<--TID_KEEP!-->
+<--UART_EXT send *C,67&-->
+<--UART Data:*B,3,R:6959 5058,8310 6347,G:5897 4312,6582 4946,B:8185 6039,8330 6240,C:18986 14046,21606 16624&
+-->
+<--TID_CS!-->
+<--WhileGetAckNumber[Result:1 - ACKNUM:1627 - LastACK:1627 - OT:32]!-->
+<--WhileGetAckNumber[Result:1 - ACKNUM:1732 - LastACK:1627 - OT:31]!-->
+<--Ql_SOC_GetAckNumber[Result:1 - ACKNUM:1732 - LastACK:1627]!-->
+<--TCP Send Data:**,100,DC,3,R:6959 5058,8310 6347,G:5897 4312,6582 4946,B:8185 6039,8330 6240,C:18986 14046,21606 16624&&[105][1]-->
+<--TID_KEEP!-->
+<--UART_EXT send *C,67&-->
+<--UART Data:*B,3,R:6944 5058,8307 6347,G:5891 4312,6583 4946,B:8184 6039,8335 6240,C:18967 14046,21610 16624&

@@ -1,0 +1,35 @@
+<--TID_CELL!-->
+<--WhileGetAckNumber[Result:1 - ACKNUM:9336 - LastACK:9336 - OT:32]!-->
+<--WhileGetAckNumber[Result:1 - ACKNUM:9378 - LastACK:9336 - OT:31]!-->
+<--Ql_SOC_GetAckNumber[Result:1 - ACKNUM:9378 - LastACK:9336]!-->
+<--TCP Send Data:**,101,460,0,6151,18051,20,0.0000,0.0000&&[42][1]-->
+<--TID_KEEP!-->
+<--UART_EXT send *C,67&-->
+<--UART Data:*B,0,R:5170 5169,6514 6526,G:4547 4536,5330 5323,B:6254 6233,6983 6959,C:14053 14019,17068 17049&
+-->
+<--TID_CS!-->
+<--WhileGetAckNumber[Result:1 - ACKNUM:9378 - LastACK:9378 - OT:32]!-->
+<--WhileGetAckNumber[Result:1 - ACKNUM:9483 - LastACK:9378 - OT:31]!-->
+<--Ql_SOC_GetAckNumber[Result:1 - ACKNUM:9483 - LastACK:9378]!-->
+<--TCP Send Data:**,100,DC,0,R:5170 5169,6514 6526,G:4547 4536,5330 5323,B:6254 6233,6983 6959,C:14053 14019,17068 17049&&[105][1]-->
+<--TID_KEEP!-->
+<--UART_EXT send *C,67&-->
+<--UART Data:*B,0,R:5179 5169,6523 6526,G:4559 4536,5340 5323,B:6272 6233,7000 6959,C:14091 14019,17102 17049&
+-->
+<--TID_CS!-->
+<--WhileGetAckNumber[Result:1 - ACKNUM:9483 - LastACK:9483 - OT:32]!-->
+<--WhileGetAckNumber[Result:1 - ACKNUM:9588 - LastACK:9483 - OT:31]!-->
+<--Ql_SOC_GetAckNumber[Result:1 - ACKNUM:9588 - LastACK:9483]!-->
+<--TCP Send Data:**,100,DC,0,R:5179 5169,6523 6526,G:4559 4536,5340 5323,B:6272 6233,7000 6959,C:14091 14019,17102 17049&&[105][1]-->
+<--TID_KEEP!-->
+<--UART_EXT send *C,67&-->
+<--UART Data:*B,0,R:5209 5169,6526 6526,G:4574 4536,5346 5323,B:6282 6233,7012 6959,C:14146 14019,17123 17049&
+-->
+<--TID_CS!-->
+<--WhileGetAckNumber[Result:1 - ACKNUM:9588 - LastACK:9588 - OT:32]!-->
+<--WhileGetAckNumber[Result:1 - ACKNUM:9693 - LastACK:9588 - OT:31]!-->
+<--Ql_SOC_GetAckNumber[Result:1 - ACKNUM:9693 - LastACK:9588]!-->
+<--TCP Send Data:**,100,DC,0,R:5209 5169,6526 6526,G:4574 4536,5346 5323,B:6282 6233,7012 6959,C:14146 14019,17123 17049&&[105][1]-->
+<--TID_KEEP!-->
+<--UART_EXT send *C,67&-->
+<--UART Data:*B,0,R:5215 5169,6538 6526,G:4580 4536,5355 5323,B:6291 6233,7022 6959,C:14165 14019,17153 17049&

@@ -1,0 +1,40 @@
+<--TID_KEEP!-->
+<--WhileGetAckNumber[Result:1 - ACKNUM:66119 - LastACK:66119 - OT:32]!-->
+<--WhileGetAckNumber[Result:1 - ACKNUM:66130 - LastACK:66119 - OT:31]!-->
+<--Ql_SOC_GetAckNumber[Result:1 - ACKNUM:66130 - LastACK:66119]!-->
+<--TCP Send Data:**,100,DC&&[11][1]-->
+<--TID_KEEP!-->
+<--UART_EXT send *C,67&-->
+<--UART Data:*B,0,R:6068 6036,6145 6127,G:4968 4946,4412 4398,B:6380 6357,6088 6066,C:16308 16225,17343 17275&
+-->
+<--TID_CS!-->
+<--WhileGetAckNumber[Result:1 - ACKNUM:66130 - LastACK:66130 - OT:32]!-->
+<--WhileGetAckNumber[Result:1 - ACKNUM:66235 - LastACK:66130 - OT:31]!-->
+<--Ql_SOC_GetAckNumber[Result:1 - ACKNUM:66235 - LastACK:66130]!-->
+<--TCP Send Data:**,100,DC,0,R:6068 6036,6145 6127,G:4968 4946,4412 4398,B:6380 6357,6088 6066,C:16308 16225,17343 17275&&[105][1]-->
+<--TID_KEEP!-->
+<--UART_EXT send *C,67&-->
+<--UART Data:*B,0,R:6042 6036,6162 6127,G:4962 4946,4424 4398,B:6389 6357,6107 6066,C:16287 16225,17404 17275&
+-->
+<--TID_CS!-->
+<--WhileGetAckNumber[Result:1 - ACKNUM:66235 - LastACK:66235 - OT:32]!-->
+<--WhileGetAckNumber[Result:1 - ACKNUM:66340 - LastACK:66235 - OT:31]!-->
+<--Ql_SOC_GetAckNumber[Result:1 - ACKNUM:66340 - LastACK:66235]!-->
+<--TCP Send Data:**,100,DC,0,R:6042 6036,6162 6127,G:4962 4946,4424 4398,B:6389 6357,6107 6066,C:16287 16225,17404 17275&&[105][1]-->
+<--TID_CELL!-->
+<--WhileGetAckNumber[Result:1 - ACKNUM:66340 - LastACK:66340 - OT:32]!-->
+<--WhileGetAckNumber[Result:1 - ACKNUM:66382 - LastACK:66340 - OT:31]!-->
+<--Ql_SOC_GetAckNumber[Result:1 - ACKNUM:66382 - LastACK:66340]!-->
+<--TCP Send Data:**,101,460,0,6151,18051,21,0.0000,0.0000&&[42][1]-->
+<--TID_KEEP!-->
+<--UART_EXT send *C,67&-->
+<--UART Data:*B,0,R:6062 6036,6164 6127,G:4975 4946,4429 4398,B:6404 6357,6120 6066,C:16338 16225,17430 17275&
+-->
+<--TID_CS!-->
+<--WhileGetAckNumber[Result:1 - ACKNUM:66382 - LastACK:66382 - OT:32]!-->
+<--WhileGetAckNumber[Result:1 - ACKNUM:66487 - LastACK:66382 - OT:31]!-->
+<--Ql_SOC_GetAckNumber[Result:1 - ACKNUM:66487 - LastACK:66382]!-->
+<--TCP Send Data:**,100,DC,0,R:6062 6036,6164 6127,G:4975 4946,4429 4398,B:6404 6357,6120 6066,C:16338 16225,17430 17275&&[105][1]-->
+<--TID_KEEP!-->
+<--UART_EXT send *C,67&-->
+<--UART Data:*B,0,R:6114 6036,6179 6127,G:5002 4946,4439 4398,B:6423 6357,6134 6066,C:16441 16225,17478 17275&

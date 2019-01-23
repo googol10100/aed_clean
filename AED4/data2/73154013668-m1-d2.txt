@@ -1,0 +1,34 @@
+<--TID_KEEP!-->
+<--UART_EXT send *C,67&-->
+<--UART Data:*B,3,R:7571 6313,9823 6010,G:6052 5256,6715 4339,B:7759 6879,8976 5994,C:20424 17131,27094 17027&
+-->
+<--TID_CS!-->
+<--WhileGetAckNumber[Result:1 - ACKNUM:2491 - LastACK:2491 - OT:32]!-->
+<--WhileGetAckNumber[Result:1 - ACKNUM:2491 - LastACK:2491 - OT:31]!-->
+<--WhileGetAckNumber[Result:1 - ACKNUM:2596 - LastACK:2491 - OT:30]!-->
+<--Ql_SOC_GetAckNumber[Result:1 - ACKNUM:2596 - LastACK:2491]!-->
+<--TCP Send Data:**,100,DC,3,R:7571 6313,9823 6010,G:6052 5256,6715 4339,B:7759 6879,8976 5994,C:20424 17131,27094 17027&&[105][1]-->
+<--TID_KEEP!-->
+<--UART_EXT send *C,67&-->
+<--UART Data:*B,3,R:7617 6313,9829 6010,G:6085 5256,6752 4339,B:7798 6879,9005 5994,C:20558 17131,27182 17027&
+-->
+<--TID_CS!-->
+<--WhileGetAckNumber[Result:1 - ACKNUM:2596 - LastACK:2596 - OT:32]!-->
+<--WhileGetAckNumber[Result:1 - ACKNUM:2596 - LastACK:2596 - OT:31]!-->
+<--WhileGetAckNumber[Result:1 - ACKNUM:2596 - LastACK:2596 - OT:30]!-->
+<--WhileGetAckNumber[Result:1 - ACKNUM:2701 - LastACK:2596 - OT:29]!-->
+<--Ql_SOC_GetAckNumber[Result:1 - ACKNUM:2701 - LastACK:2596]!-->
+<--TCP Send Data:**,100,DC,3,R:7617 6313,9829 6010,G:6085 5256,6752 4339,B:7798 6879,9005 5994,C:20558 17131,27182 17027&&[105][1]-->
+<--TID_KEEP!-->
+<--UART_EXT send *C,67&-->
+<--UART Data:*B,3,R:7607 6313,9848 6010,G:6086 5256,6768 4339,B:7810 6879,9033 5994,C:20567 17131,27267 17027&
+-->
+<--TID_CS!-->
+<--WhileGetAckNumber[Result:1 - ACKNUM:2701 - LastACK:2701 - OT:32]!-->
+<--WhileGetAckNumber[Result:1 - ACKNUM:2701 - LastACK:2701 - OT:31]!-->
+<--WhileGetAckNumber[Result:1 - ACKNUM:2806 - LastACK:2701 - OT:30]!-->
+<--Ql_SOC_GetAckNumber[Result:1 - ACKNUM:2806 - LastACK:2701]!-->
+<--TCP Send Data:**,100,DC,3,R:7607 6313,9848 6010,G:6086 5256,6768 4339,B:7810 6879,9033 5994,C:20567 17131,27267 17027&&[105][1]-->
+<--TID_KEEP!-->
+<--UART_EXT send *C,67&-->
+<--UART Data:*B,3,R:7633 6313,9862 6010,G:6103 5256,6780 4339,B:7830 6879,9051 5994,C:20638 17131,27326 17027&

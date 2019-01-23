@@ -1,0 +1,126 @@
+/home/ly/anaconda3/envs/py27-cpu/lib/python2.7/site-packages/h5py/__init__.py:36: FutureWarning: Conversion of the second argument of issubdtype from `float` to `np.floating` is deprecated. In future, it will be treated as `np.float64 == np.dtype(float).type`.
+  from ._conv import register_converters as _register_converters
+Using TensorFlow backend.
+2018-11-28 14:51:29.526963: I tensorflow/core/platform/cpu_feature_guard.cc:140] Your CPU supports instructions that this TensorFlow binary was not compiled to use: SSE4.1 SSE4.2 AVX AVX2 FMA
+Error: That port is already in use.
+/home/ly/anaconda3/envs/py27-cpu/lib/python2.7/site-packages/h5py/__init__.py:36: FutureWarning: Conversion of the second argument of issubdtype from `float` to `np.floating` is deprecated. In future, it will be treated as `np.float64 == np.dtype(float).type`.
+  from ._conv import register_converters as _register_converters
+Using TensorFlow backend.
+2018-11-28 14:52:45.585752: I tensorflow/core/platform/cpu_feature_guard.cc:140] Your CPU supports instructions that this TensorFlow binary was not compiled to use: SSE4.1 SSE4.2 AVX AVX2 FMA
+Error: That port is already in use.
+/home/ly/anaconda3/envs/py27-cpu/lib/python2.7/site-packages/h5py/__init__.py:36: FutureWarning: Conversion of the second argument of issubdtype from `float` to `np.floating` is deprecated. In future, it will be treated as `np.float64 == np.dtype(float).type`.
+  from ._conv import register_converters as _register_converters
+Using TensorFlow backend.
+2018-11-28 14:53:50.079683: I tensorflow/core/platform/cpu_feature_guard.cc:140] Your CPU supports instructions that this TensorFlow binary was not compiled to use: SSE4.1 SSE4.2 AVX AVX2 FMA
+[28/Nov/2018 14:54:12] "GET /6137-3972-6021-4360-4745-3208-5528-4009-6771-4716-7974-5932/ HTTP/1.1" 200 296
+[28/Nov/2018 14:54:12] "GET /favicon.ico HTTP/1.1" 301 0
+[28/Nov/2018 14:54:13] "GET /favicon.ico/ HTTP/1.1" 500 27
+[28/Nov/2018 14:54:14] "GET /6137-3972-6021-4360-4745-3208-5528-4009-6771-4716-7974-5932/ HTTP/1.1" 200 296
+[28/Nov/2018 14:54:14] "GET /favicon.ico HTTP/1.1" 301 0
+[28/Nov/2018 14:54:14] "GET /favicon.ico/ HTTP/1.1" 500 27
+[28/Nov/2018 14:54:15] "GET /6137-3972-6021-4360-4745-3208-5528-4009-6771-4716-7974-5932/ HTTP/1.1" 200 296
+[28/Nov/2018 14:54:15] "GET /favicon.ico HTTP/1.1" 301 0
+[28/Nov/2018 14:54:15] "GET /favicon.ico/ HTTP/1.1" 500 27
+[28/Nov/2018 14:54:16] "GET /6137-3972-6021-4360-4745-3208-5528-4009-6771-4716-7974-5932/ HTTP/1.1" 200 296
+[28/Nov/2018 14:54:16] "GET /favicon.ico HTTP/1.1" 301 0
+[28/Nov/2018 14:54:16] "GET /favicon.ico/ HTTP/1.1" 500 27
+/home/ly/anaconda3/envs/py27-cpu/lib/python2.7/site-packages/h5py/__init__.py:36: FutureWarning: Conversion of the second argument of issubdtype from `float` to `np.floating` is deprecated. In future, it will be treated as `np.float64 == np.dtype(float).type`.
+  from ._conv import register_converters as _register_converters
+Using TensorFlow backend.
+2018-11-28 14:55:12.802644: I tensorflow/core/platform/cpu_feature_guard.cc:140] Your CPU supports instructions that this TensorFlow binary was not compiled to use: SSE4.1 SSE4.2 AVX AVX2 FMA
+[28/Nov/2018 14:55:35] "GET /6137-3972-6021-4360-4745-3208-5528-4009-6771-4716-7974-5932/ HTTP/1.1" 200 296
+[28/Nov/2018 14:55:35] "GET /favicon.ico HTTP/1.1" 301 0
+[28/Nov/2018 14:55:35] "GET /favicon.ico/ HTTP/1.1" 500 27
+[28/Nov/2018 14:55:36] "GET /6137-3972-6021-4360-4745-3208-5528-4009-6771-4716-7974-5932/ HTTP/1.1" 200 296
+[28/Nov/2018 14:55:36] "GET /favicon.ico HTTP/1.1" 301 0
+[28/Nov/2018 14:55:36] "GET /favicon.ico/ HTTP/1.1" 500 27
+[28/Nov/2018 14:55:37] "GET /6137-3972-6021-4360-4745-3208-5528-4009-6771-4716-7974-5932/ HTTP/1.1" 200 296
+[28/Nov/2018 14:55:37] "GET /favicon.ico HTTP/1.1" 301 0
+[28/Nov/2018 14:55:37] "GET /favicon.ico/ HTTP/1.1" 500 27
+[28/Nov/2018 14:55:37] "GET /6137-3972-6021-4360-4745-3208-5528-4009-6771-4716-7974-5932/ HTTP/1.1" 200 296
+[28/Nov/2018 14:55:37] "GET /favicon.ico HTTP/1.1" 301 0
+[28/Nov/2018 14:55:37] "GET /favicon.ico/ HTTP/1.1" 500 27
+[28/Nov/2018 14:55:37] "GET /6137-3972-6021-4360-4745-3208-5528-4009-6771-4716-7974-5932/ HTTP/1.1" 200 296
+[28/Nov/2018 14:55:37] "GET /favicon.ico HTTP/1.1" 301 0
+[28/Nov/2018 14:55:37] "GET /favicon.ico/ HTTP/1.1" 500 27
+Performing system checks...
+
+('=====================================', '/home/ly/code/aed/web/my_api', '=============================================')
+('=====================================', '/home/ly/code/aed/web/my_api', '=============================================')
+('=====================================', '/home/ly/code/aed/web/my_api', '=============================================')
+[[0. 0. 0. 1.]]
+System check identified no issues (0 silenced).
+
+You have 13 unapplied migration(s). Your project may not work properly until you apply the migrations for app(s): admin, auth, contenttypes, sessions.
+Run 'python manage.py migrate' to apply them.
+November 28, 2018 - 14:55:14
+Django version 1.10.1, using settings 'my_api.settings'
+Starting development server at http://127.0.0.1:1234/
+Quit the server with CONTROL-C.
+/home/ly/anaconda3/envs/py27-cpu/lib/python2.7/site-packages/h5py/__init__.py:36: FutureWarning: Conversion of the second argument of issubdtype from `float` to `np.floating` is deprecated. In future, it will be treated as `np.float64 == np.dtype(float).type`.
+  from ._conv import register_converters as _register_converters
+Using TensorFlow backend.
+2018-11-28 15:01:12.324884: I tensorflow/core/platform/cpu_feature_guard.cc:140] Your CPU supports instructions that this TensorFlow binary was not compiled to use: SSE4.1 SSE4.2 AVX AVX2 FMA
+/home/ly/anaconda3/envs/py27-cpu/lib/python2.7/site-packages/h5py/__init__.py:36: FutureWarning: Conversion of the second argument of issubdtype from `float` to `np.floating` is deprecated. In future, it will be treated as `np.float64 == np.dtype(float).type`.
+  from ._conv import register_converters as _register_converters
+Using TensorFlow backend.
+2018-11-28 15:02:03.821951: I tensorflow/core/platform/cpu_feature_guard.cc:140] Your CPU supports instructions that this TensorFlow binary was not compiled to use: SSE4.1 SSE4.2 AVX AVX2 FMA
+[28/Nov/2018 15:02:09] "GET /6137-3972-6021-4360-4745-3208-5528-4009-6771-4716-7974-5932/ HTTP/1.1" 200 296
+[28/Nov/2018 15:02:09] "GET /favicon.ico HTTP/1.1" 301 0
+[28/Nov/2018 15:02:10] "GET /favicon.ico/ HTTP/1.1" 500 27
+[28/Nov/2018 15:02:10] "GET /6137-3972-6021-4360-4745-3208-5528-4009-6771-4716-7974-5932/ HTTP/1.1" 200 296
+[28/Nov/2018 15:02:10] "GET /favicon.ico HTTP/1.1" 301 0
+[28/Nov/2018 15:02:10] "GET /favicon.ico/ HTTP/1.1" 500 27
+[28/Nov/2018 15:02:19] "GET /6137-3972-6021-4360-4745-3208-5528-4009-6771-4716-7974-5932-avdf23/ HTTP/1.1" 200 303
+[28/Nov/2018 15:02:19] "GET /favicon.ico/ HTTP/1.1" 500 27
+[28/Nov/2018 15:02:27] "GET /6137-3972-6021-4360-4745-3208-5528-4009-6771-4716-7974-5932-avdf23/ HTTP/1.1" 200 303
+[28/Nov/2018 15:02:27] "GET /favicon.ico HTTP/1.1" 301 0
+[28/Nov/2018 15:02:27] "GET /favicon.ico/ HTTP/1.1" 500 27
+[28/Nov/2018 15:02:28] "GET /6137-3972-6021-4360-4745-3208-5528-4009-6771-4716-7974-5932-avdf23/ HTTP/1.1" 200 303
+[28/Nov/2018 15:02:28] "GET /favicon.ico HTTP/1.1" 301 0
+[28/Nov/2018 15:02:28] "GET /favicon.ico/ HTTP/1.1" 500 27
+[28/Nov/2018 15:08:33] "GET /6137-3972-6021-4360-4745-3208-5528-4009-6771-4716-7974-5932-avdf23/ HTTP/1.1" 200 303
+[28/Nov/2018 15:08:33] "GET /favicon.ico HTTP/1.1" 301 0
+[28/Nov/2018 15:08:33] "GET /favicon.ico/ HTTP/1.1" 500 27
+[28/Nov/2018 15:08:35] "GET /6137-3972-6021-4360-4745-3208-5528-4009-6771-4716-7974-5932-avdf23/ HTTP/1.1" 200 303
+[28/Nov/2018 15:08:35] "GET /favicon.ico HTTP/1.1" 301 0
+[28/Nov/2018 15:08:35] "GET /favicon.ico/ HTTP/1.1" 500 27
+[28/Nov/2018 15:08:36] "GET /6137-3972-6021-4360-4745-3208-5528-4009-6771-4716-7974-5932-avdf23/ HTTP/1.1" 200 303
+[28/Nov/2018 15:08:36] "GET /favicon.ico HTTP/1.1" 301 0
+[28/Nov/2018 15:08:36] "GET /favicon.ico/ HTTP/1.1" 500 27
+[28/Nov/2018 15:08:36] "GET /6137-3972-6021-4360-4745-3208-5528-4009-6771-4716-7974-5932-avdf23/ HTTP/1.1" 200 303
+[28/Nov/2018 15:08:37] "GET /favicon.ico HTTP/1.1" 301 0
+[28/Nov/2018 15:08:37] "GET /favicon.ico/ HTTP/1.1" 500 27
+[28/Nov/2018 15:08:37] "GET /6137-3972-6021-4360-4745-3208-5528-4009-6771-4716-7974-5932-avdf23/ HTTP/1.1" 200 303
+[28/Nov/2018 15:08:37] "GET /favicon.ico HTTP/1.1" 301 0
+[28/Nov/2018 15:08:37] "GET /favicon.ico/ HTTP/1.1" 500 27
+[28/Nov/2018 15:19:54] "GET /6137-3972-6021-4360-4745-3208-5528-4009-6771-4716-7974-5932-avdf23/ HTTP/1.1" 200 303
+Traceback (most recent call last):
+  File "/home/ly/anaconda3/envs/py27-cpu/lib/python2.7/logging/__init__.py", line 861, in emit
+    msg = self.format(record)
+  File "/home/ly/anaconda3/envs/py27-cpu/lib/python2.7/logging/__init__.py", line 734, in format
+    return fmt.format(record)
+  File "/home/ly/anaconda3/envs/py27-cpu/lib/python2.7/site-packages/django/utils/log.py", line 173, in format
+    if args[1][0] == '2':
+IndexError: tuple index out of range
+Logged from file basehttp.py, line 85
+[28/Nov/2018 15:19:55] "GET /6137-3972-6021-4360-4745-3208-5528-4009-6771-4716-7974-5932-avdf23/ HTTP/1.1" 200 303
+[28/Nov/2018 15:19:56] "GET /favicon.ico HTTP/1.1" 301 0
+[28/Nov/2018 15:19:56] "GET /favicon.ico/ HTTP/1.1" 500 27
+[28/Nov/2018 15:50:43] "GET / HTTP/1.1" 404 74
+[28/Nov/2018 15:50:43] "GET /favicon.ico/ HTTP/1.1" 500 27
+[28/Nov/2018 15:50:56] "GET /6137-3972-6021-4360-4745-3208-5528-4009-6771-4716-7974-5932-avdf23/ HTTP/1.1" 200 303
+[28/Nov/2018 15:50:56] "GET /favicon.ico/ HTTP/1.1" 500 27
+[28/Nov/2018 15:51:25] "GET /admin HTTP/1.1" 301 0
+[28/Nov/2018 15:51:25] "GET /admin/ HTTP/1.1" 302 0
+[28/Nov/2018 15:51:25] "GET /admin/login/?next=/admin/ HTTP/1.1" 200 1657
+[28/Nov/2018 15:51:25] "GET /static/admin/css/base.css HTTP/1.1" 301 0
+[28/Nov/2018 15:51:25] "GET /static/admin/css/login.css HTTP/1.1" 301 0
+[28/Nov/2018 15:51:25] "GET /static/admin/css/login.css/ HTTP/1.1" 500 27
+[28/Nov/2018 15:51:25] "GET /static/admin/css/base.css/ HTTP/1.1" 500 27
+[28/Nov/2018 15:51:25] "GET /favicon.ico/ HTTP/1.1" 500 27
+[28/Nov/2018 15:51:38] "POST /admin/login/?next=/admin/ HTTP/1.1" 500 27
+[28/Nov/2018 15:51:38] "GET /favicon.ico/ HTTP/1.1" 500 27
+[28/Nov/2018 15:51:40] "GET /admin/login/?next=/admin/ HTTP/1.1" 200 1657
+[28/Nov/2018 15:51:40] "GET /static/admin/css/login.css/ HTTP/1.1" 500 27
+[28/Nov/2018 15:51:40] "GET /favicon.ico/ HTTP/1.1" 500 27

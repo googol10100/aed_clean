@@ -1,0 +1,35 @@
+<--TID_KEEP!-->
+<--UART_EXT send *C,67&-->
+<--UART Data:*B,3,R:6307 3919,5967 3976,G:4964 3225,5562 3771,B:7089 4762,7973 5535,C:17487 11386,16587 11419&
+-->
+<--TID_CS!-->
+<--WhileGetAckNumber[Result:1 - ACKNUM:8250 - LastACK:8250 - OT:32]!-->
+<--WhileGetAckNumber[Result:1 - ACKNUM:8355 - LastACK:8250 - OT:31]!-->
+<--Ql_SOC_GetAckNumber[Result:1 - ACKNUM:8355 - LastACK:8250]!-->
+<--TCP Send Data:**,100,DC,3,R:6307 3919,5967 3976,G:4964 3225,5562 3771,B:7089 4762,7973 5535,C:17487 11386,16587 11419&&[105][1]-->
+<--TID_CELL!-->
+<--WhileGetAckNumber[Result:1 - ACKNUM:8355 - LastACK:8355 - OT:32]!-->
+<--WhileGetAckNumber[Result:1 - ACKNUM:8397 - LastACK:8355 - OT:31]!-->
+<--Ql_SOC_GetAckNumber[Result:1 - ACKNUM:8397 - LastACK:8355]!-->
+<--TCP Send Data:**,101,460,0,6151,18051,19,0.0000,0.0000&&[42][1]-->
+<--TID_KEEP!-->
+<--UART_EXT send *C,67&-->
+<--UART Data:*B,3,R:6279 3919,5954 3976,G:4961 3225,5565 3771,B:7106 4762,7987 5535,C:17474 11386,16586 11419&
+-->
+<--TID_CS!-->
+<--WhileGetAckNumber[Result:1 - ACKNUM:8397 - LastACK:8397 - OT:32]!-->
+<--WhileGetAckNumber[Result:1 - ACKNUM:8502 - LastACK:8397 - OT:31]!-->
+<--Ql_SOC_GetAckNumber[Result:1 - ACKNUM:8502 - LastACK:8397]!-->
+<--TCP Send Data:**,100,DC,3,R:6279 3919,5954 3976,G:4961 3225,5565 3771,B:7106 4762,7987 5535,C:17474 11386,16586 11419&&[105][1]-->
+<--TID_KEEP!-->
+<--UART_EXT send *C,67&-->
+<--UART Data:*B,3,R:6263 3919,5951 3976,G:4958 3225,5569 3771,B:7113 4762,8015 5535,C:17462 11386,16591 11419&
+-->
+<--TID_CS!-->
+<--WhileGetAckNumber[Result:1 - ACKNUM:8502 - LastACK:8502 - OT:32]!-->
+<--WhileGetAckNumber[Result:1 - ACKNUM:8607 - LastACK:8502 - OT:31]!-->
+<--Ql_SOC_GetAckNumber[Result:1 - ACKNUM:8607 - LastACK:8502]!-->
+<--TCP Send Data:**,100,DC,3,R:6263 3919,5951 3976,G:4958 3225,5569 3771,B:7113 4762,8015 5535,C:17462 11386,16591 11419&&[105][1]-->
+<--TID_KEEP!-->
+<--UART_EXT send *C,67&-->
+<--UART Data:*B,3,R:6252 3919,5931 3976,G:4956 3225,5568 3771,B:7116 4762,8015 5535,C:17455 11386,16591 11419&

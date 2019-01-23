@@ -1,0 +1,35 @@
+<--TID_KEEP!-->
+<--UART_EXT send *C,67&-->
+<--UART Data:*B,0,R:4310 4299,4074 4414,G:4283 4250,3791 3978,B:6213 6172,5213 5356,C:12546 12469,11535 12297&
+-->
+<--TID_CS!-->
+<--WhileGetAckNumber[Result:1 - ACKNUM:3317 - LastACK:3317 - OT:32]!-->
+<--WhileGetAckNumber[Result:1 - ACKNUM:3422 - LastACK:3317 - OT:31]!-->
+<--Ql_SOC_GetAckNumber[Result:1 - ACKNUM:3422 - LastACK:3317]!-->
+<--TCP Send Data:**,100,DC,0,R:4310 4299,4074 4414,G:4283 4250,3791 3978,B:6213 6172,5213 5356,C:12546 12469,11535 12297&&[105][1]-->
+<--TID_KEEP!-->
+<--UART_EXT send *C,67&-->
+<--UART Data:*B,0,R:4235 4299,3832 4414,G:4265 4250,3656 3978,B:6225 6172,5122 5356,C:12438 12469,10989 12297&
+-->
+<--TID_CS!-->
+<--WhileGetAckNumber[Result:1 - ACKNUM:3422 - LastACK:3422 - OT:32]!-->
+<--WhileGetAckNumber[Result:1 - ACKNUM:3527 - LastACK:3422 - OT:31]!-->
+<--Ql_SOC_GetAckNumber[Result:1 - ACKNUM:3527 - LastACK:3422]!-->
+<--TCP Send Data:**,100,DC,0,R:4235 4299,3832 4414,G:4265 4250,3656 3978,B:6225 6172,5122 5356,C:12438 12469,10989 12297&&[105][1]-->
+<--TID_KEEP!-->
+<--UART_EXT send *C,67&-->
+<--UART Data:*B,0,R:4191 4299,3754 4414,G:4255 4250,3619 3978,B:6240 6172,5101 5356,C:12389 12469,10834 12297&
+-->
+<--TID_CS!-->
+<--WhileGetAckNumber[Result:1 - ACKNUM:3527 - LastACK:3527 - OT:32]!-->
+<--WhileGetAckNumber[Result:1 - ACKNUM:3632 - LastACK:3527 - OT:31]!-->
+<--Ql_SOC_GetAckNumber[Result:1 - ACKNUM:3632 - LastACK:3527]!-->
+<--TCP Send Data:**,100,DC,0,R:4191 4299,3754 4414,G:4255 4250,3619 3978,B:6240 6172,5101 5356,C:12389 12469,10834 12297&&[105][1]-->
+<--TID_CELL!-->
+<--WhileGetAckNumber[Result:1 - ACKNUM:3632 - LastACK:3632 - OT:32]!-->
+<--WhileGetAckNumber[Result:1 - ACKNUM:3674 - LastACK:3632 - OT:31]!-->
+<--Ql_SOC_GetAckNumber[Result:1 - ACKNUM:3674 - LastACK:3632]!-->
+<--TCP Send Data:**,101,460,0,6151,18051,18,0.0000,0.0000&&[42][1]-->
+<--TID_KEEP!-->
+<--UART_EXT send *C,67&-->
+<--UART Data:*B,0,R:4191 4299,3713 4414,G:4257 4250,3602 3978,B:6244 6172,5100 5356,C:12388 12469,10761 12297&

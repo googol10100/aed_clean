@@ -1,0 +1,35 @@
+<--TID_KEEP!-->
+<--UART_EXT send *C,67&-->
+<--UART Data:*B,3,R:6983 4822,8142 5999,G:6050 4476,6406 4840,B:8386 6431,8537 6504,C:18585 13735,21076 16061&
+-->
+<--TID_CS!-->
+<--WhileGetAckNumber[Result:1 - ACKNUM:1174 - LastACK:1174 - OT:32]!-->
+<--WhileGetAckNumber[Result:1 - ACKNUM:1279 - LastACK:1174 - OT:31]!-->
+<--Ql_SOC_GetAckNumber[Result:1 - ACKNUM:1279 - LastACK:1174]!-->
+<--TCP Send Data:**,100,DC,3,R:6983 4822,8142 5999,G:6050 4476,6406 4840,B:8386 6431,8537 6504,C:18585 13735,21076 16061&&[105][1]-->
+<--TID_KEEP!-->
+<--UART_EXT send *C,67&-->
+<--UART Data:*B,3,R:6940 4822,8113 5999,G:6041 4476,6405 4840,B:8398 6431,8555 6504,C:18557 13735,21072 16061&
+-->
+<--TID_CS!-->
+<--WhileGetAckNumber[Result:1 - ACKNUM:1279 - LastACK:1279 - OT:32]!-->
+<--WhileGetAckNumber[Result:1 - ACKNUM:1384 - LastACK:1279 - OT:31]!-->
+<--Ql_SOC_GetAckNumber[Result:1 - ACKNUM:1384 - LastACK:1279]!-->
+<--TCP Send Data:**,100,DC,3,R:6940 4822,8113 5999,G:6041 4476,6405 4840,B:8398 6431,8555 6504,C:18557 13735,21072 16061&&[105][1]-->
+<--TID_KEEP!-->
+<--UART_EXT send *C,67&-->
+<--UART Data:*B,3,R:6953 4822,8147 5999,G:6047 4476,6420 4840,B:8402 6431,8562 6504,C:18581 13735,21127 16061&
+-->
+<--TID_CS!-->
+<--WhileGetAckNumber[Result:1 - ACKNUM:1384 - LastACK:1384 - OT:32]!-->
+<--WhileGetAckNumber[Result:1 - ACKNUM:1489 - LastACK:1384 - OT:31]!-->
+<--Ql_SOC_GetAckNumber[Result:1 - ACKNUM:1489 - LastACK:1384]!-->
+<--TCP Send Data:**,100,DC,3,R:6953 4822,8147 5999,G:6047 4476,6420 4840,B:8402 6431,8562 6504,C:18581 13735,21127 16061&&[105][1]-->
+<--TID_CELL!-->
+<--WhileGetAckNumber[Result:1 - ACKNUM:1489 - LastACK:1489 - OT:32]!-->
+<--WhileGetAckNumber[Result:1 - ACKNUM:1531 - LastACK:1489 - OT:31]!-->
+<--Ql_SOC_GetAckNumber[Result:1 - ACKNUM:1531 - LastACK:1489]!-->
+<--TCP Send Data:**,101,460,0,6151,18051,21,0.0000,0.0000&&[42][1]-->
+<--TID_KEEP!-->
+<--UART_EXT send *C,67&-->
+<--UART Data:*B,3,R:6938 4822,8110 5999,G:6044 4476,6409 4840,B:8408 6431,8567 6504,C:18569 13735,21088 16061&

@@ -1,0 +1,36 @@
+<--TID_KEEP!-->
+<--UART_EXT send *C,67&-->
+<--UART Data:*B,1,R:6471 4096,4089 4036,G:4785 3319,3844 3783,B:6716 4889,5696 5696,C:16941 11714,11588 11463&
+-->
+<--TID_CS!-->
+<--WhileGetAckNumber[Result:1 - ACKNUM:3529 - LastACK:3529 - OT:32]!-->
+<--WhileGetAckNumber[Result:1 - ACKNUM:3529 - LastACK:3529 - OT:31]!-->
+<--WhileGetAckNumber[Result:1 - ACKNUM:3634 - LastACK:3529 - OT:30]!-->
+<--Ql_SOC_GetAckNumber[Result:1 - ACKNUM:3634 - LastACK:3529]!-->
+<--TCP Send Data:**,100,DC,1,R:6471 4096,4089 4036,G:4785 3319,3844 3783,B:6716 4889,5696 5696,C:16941 11714,11588 11463&&[105][1]-->
+<--TID_CELL!-->
+<--WhileGetAckNumber[Result:1 - ACKNUM:3634 - LastACK:3634 - OT:32]!-->
+<--WhileGetAckNumber[Result:1 - ACKNUM:3676 - LastACK:3634 - OT:31]!-->
+<--Ql_SOC_GetAckNumber[Result:1 - ACKNUM:3676 - LastACK:3634]!-->
+<--TCP Send Data:**,101,460,0,6151,18051,21,0.0000,0.0000&&[42][1]-->
+<--TID_KEEP!-->
+<--UART_EXT send *C,67&-->
+<--UART Data:*B,1,R:6449 4096,4065 4036,G:4784 3319,3848 3783,B:6737 4889,5725 5696,C:16953 11714,11587 11463&
+-->
+<--TID_CS!-->
+<--WhileGetAckNumber[Result:1 - ACKNUM:3676 - LastACK:3676 - OT:32]!-->
+<--WhileGetAckNumber[Result:1 - ACKNUM:3781 - LastACK:3676 - OT:31]!-->
+<--Ql_SOC_GetAckNumber[Result:1 - ACKNUM:3781 - LastACK:3676]!-->
+<--TCP Send Data:**,100,DC,1,R:6449 4096,4065 4036,G:4784 3319,3848 3783,B:6737 4889,5725 5696,C:16953 11714,11587 11463&&[105][1]-->
+<--TID_KEEP!-->
+<--UART_EXT send *C,67&-->
+<--UART Data:*B,1,R:6437 4096,4066 4036,G:4783 3319,3851 3783,B:6748 4889,5729 5696,C:16959 11714,11591 11463&
+-->
+<--TID_CS!-->
+<--WhileGetAckNumber[Result:1 - ACKNUM:3781 - LastACK:3781 - OT:32]!-->
+<--WhileGetAckNumber[Result:1 - ACKNUM:3886 - LastACK:3781 - OT:31]!-->
+<--Ql_SOC_GetAckNumber[Result:1 - ACKNUM:3886 - LastACK:3781]!-->
+<--TCP Send Data:**,100,DC,1,R:6437 4096,4066 4036,G:4783 3319,3851 3783,B:6748 4889,5729 5696,C:16959 11714,11591 11463&&[105][1]-->
+<--TID_KEEP!-->
+<--UART_EXT send *C,67&-->
+<--UART Data:*B,1,R:6429 4096,4067 4036,G:4783 3319,3852 3783,B:6756 4889,5732 5696,C:16961 11714,11596 11463&
