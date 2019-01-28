@@ -73,10 +73,10 @@ nohup python manage.py runserver 0.0.0.0:5000 &
 
 # 代码解释
 
-最核心的代码位于[web/my_api/algorithm/views.py](web/my_api/algorithm/views.py)
+最核心的代码位于[web/my_api/algorithm/views.py](web/my_api/algorithm/views.py)的中predict函数。
 ```
 def predict(request,param):
-# param: 形如‘6137-3972-6021-4360-4745-3208-5528-4009-6771-4716-7974-5932-45678943244334’的输入，字符串.前12个数字是监控数值，最后一个是控制盒的设备号。
+# 输入param: 形如‘6137-3972-6021-4360-4745-3208-5528-4009-6771-4716-7974-5932-45678943244334’的输入，字符串.前12个数字是监控数值，最后一个是控制盒的设备号。
 
 # 返回值是json格式的字典
  'statue1': 对应监控页面显示的第2列，用的基于逻辑回归的平面划分算法，位于同级目录下的lr_pred.py中的statue_judge函数
