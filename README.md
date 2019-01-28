@@ -74,4 +74,16 @@ nohup python manage.py runserver 0.0.0.0:5000 &
 # 代码解释
 
 最核心的代码位于[web/my_api/algorithm/views.py](web/my_api/algorithm/views.py)
+```
+def predict(request,param):
+# param: 形如‘6137-3972-6021-4360-4745-3208-5528-4009-6771-4716-7974-5932-45678943244334’的输入，字符串.前12个数字是监控数值，最后一个是控制盒的设备号。
+
+# 返回值是json格式的字典
+ 'statue1': 对应监控页面显示的第2列，用的平面划分算法
+ 'statue2':对应监控页面显示的第3列，原始值突变
+ 'statue3':对应监控页面显示的第4列，修正值突变
+ 'statue4':预留接口
+
+```
+
 
