@@ -73,7 +73,5 @@ nohup python manage.py runserver 0.0.0.0:5000 &
 
 # 代码解释
 
-```
 最核心的代码位于[web/my_api/algorithm/views.py](web/my_api/algorithm/views.py)
 
-```
